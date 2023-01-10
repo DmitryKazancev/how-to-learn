@@ -141,7 +141,6 @@
   text-align: center;
 }
 .table{
-  margin: 0px;
   padding: 0px;
   list-style-type: none;
   display: flex;
@@ -196,7 +195,7 @@
   padding: 0;
   margin: 0 auto;
   text-align: center;
-  max-width: 400px; 
+  max-width: 400px;
   width: 100%;
 }
 .feynman__link{
@@ -211,7 +210,6 @@
 }
 /* Kaufman block*/
 .kaufman{
-  margin: 0;
   padding: 0;
   position: relative;
   overflow: hidden;
@@ -274,7 +272,7 @@
   padding: 0;
   position: absolute;
   background: no-repeat right -210px top 0px/877px 877px url('../images/kaufman-triangle.svg');
-  width: 877px; 
+  width: 877px;
   height: 877px;
   right: 0px;
   top: 0px;
