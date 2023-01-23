@@ -1,0 +1,9 @@
+.video__frame{
+  margin: 0;
+  width: 515px;
+  height: 316px;
+  margin-left: 20px;
+ }
+ .video__frame:first-child{
+  margin-left: 0;
+ }
