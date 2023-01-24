@@ -4,4 +4,6 @@
   padding: 0;
   display: flex;
   list-style-type: none;
+  justify-content: space-between;
+  width: 1050px;
  }
